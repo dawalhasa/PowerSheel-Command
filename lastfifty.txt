@@ -1,0 +1,836 @@
+tshark -r .\large_package.pcap -z conv,tcp
+tshark -r .\large_package.pcap
+netsh -wlan show profile
+netsh wlan show profile
+netsh wlan show profile lobsang7777777
+netsh wlan show profile Dawalhasa
+netsh wlan show profile dawalhasa
+netsh wlan show profile "Dawalhasa"
+netsh wlan show profile "dawalhasa"
+netsh wlan show profile -h
+netsh wlan show profile
+netsh wlan show profile ""
+netsh wlan show profile Name
+netsh wlan show profile key=
+netsh wlan show profile "Airtel_Dawalhasa_wife"
+netsh wlan show profile "Airtel_Dawalhasa_wifi"
+netsh wlan show profile key=
+netsh wlan show profile "Airtel_dawa_6413"
+netsh wlan show profile key=
+netsh wlan show profile "Dawa Lhasa"
+netsh wlan show profile key=
+netsh wlan show profile "DAWALHASA 2.4"
+netsh wlan show profile key=
+netsh wlan show profile "Dawalhasa"
+get-module -name 
+search-model
+get-module -name gh
+get-module -name git
+Get-Module -ListAvailable 
+Get-Module get-help
+Get-Module -ListAvailable
+Get-Module -ListAvailable | Select-String -name 
+winget search 
+winget reinstall .
+winget upgrade .
+winget upgrade ..nightly
+winget upgrade 
+sfc /scannow
+explore edge
+start microsoft-edge:http://google.com
+DISM /Online /Cleanup-Image /CheckHealth
+sfc /scannow
+DISM /Online /Cleanup-Image /ScanHealth
+DISM /Online /Cleanup-Image /RestoreHealth
+tmux new -s Dawalhasa
+winget search tmux
+winget info arndawg.tmux-windows
+winget --info arndawg.tmux-windows
+winget show arndawg.tmux-windows
+winget install arndawg.tmux-windows
+tmux new -s Dawalhasa
+ll
+
+
+ .tmux.conf
+. /.tmux.conf
+tmux
+
+
+ .\.tmux.conf
+
+
+
+ 'C:\Program Files\\64.dll'
+ 'C:\Program Files\\64.dll' "user"
+
+
+ /
+
+ '.\Program Files\'
+ '.\Program Files\\'
+  | Select-String ''
+ 
+winget install ..nightly
+winget install ..nightly upgrade
+ 
+ 
+
+
+
+ 
+
+winget list | get-contents 
+winget list | select-String 
+start microsoft-edge:http://google.com
+
+environment variables
+
+ 
+
+
+start microsoft-edge:http://google.com
+echo $PATH
+echo %PATH%
+ 'C:\Program Files\\.exe'
+set PATH=%PATH%;& 'C:\Program Files\\.exe'
+
+ 
+ 
+. 
+
+ 
+
+reboot
+reboot -n
+reboot now
+
+shutdown /r
+shutdown /r /t 0
+sfc /scannow
+DISM /Online /Cleanup-Image /CheckHealth
+DISM /Online /Cleanup-Image /ScanHealth
+DISM /Online /Cleanup-Image /RestoreHealth
+winget upgrade --all
+winget upgrade --all --force
+winget upgrade "Oh My Posh"
+winget upgrade "Oh My Posh" --force
+winget uninstall "Oh My Posh"
+winget search "Oh My Posh"
+winget install JanDeDobbeleer.OhMyPosh
+winget uninstall QuickLook
+winget install QuickLook
+winget install 9NV4BS3L1H4S
+
+
+ 
+ 
+
+tmux new -s Dawalhasa
+
+winget uninstall tmux-windows
+winget uninstall arndawg.tmux-windows
+
+
+
+winget uninstall arndawg.tmux-windows
+
+ 
+
+ 
+
+
+
+
+ my_presentation.md
+start microsoft-edge:http://google.com
+
+
+
+.exe '.\My Documents\'
+.exe 
+& 'C:\Program Files\\.exe'
+
+'C:\Program Files\\.exe'
+
+
+ .\.rc
+
+ .\.rc
+
+ .\files\
+ .\_info
+
+
+
+
+netsh wlan show profile "dawalhasa" key=
+
+pathping google.com
+
+arp -a
+n ..\my_presentation.md
+
+ my_presentation.md
+& 'C:\Program Files\\.exe'
+
+echo "Set-Alias -name  -value =& 'C:\Program Files\\.exe'" >> 
+  | Select-String ''
+ 
+. 
+ my_presentation.md
+
+
+
+ my_presentation.md
+ 
+. 
+ my_presentation.md
+
+shutdown /r /t 0
+
+start microsoft-edge:http://google.com
+Get-Content  
+Get-Content  | Select-String C:/Program
+Get-Content  | Select-String /Program
+Get-Content -Replace  Program
+
+Get-Content -Replace 
+Get-Content 
+(Get-Content) -replace 'Program' 
+(Get-Content) -replace 'author`
+ -Replace "work'
+(Get-Content) -replace 'author' -Replace 'work'
+(Get-Content) -replace 'author' -Search, 'work'
+(Get-Content) -Replace 'author' -Search, 'work'
+(Get-Content) -Replace 'author' -Search 'work'
+(Get-Content) -Replace 'author', 'work'
+get-content  | Select-String /Program
+  | Select-String 'Program'
+ 
+start microsoft-edge:http://google.com
+tasklist
+tasklist | Select-String "sshd"
+searchprotocalhost
+
+ .rc]
+ .rc
+
+chkdsk
+chkdsk /r
+shutdown /r /t 0
+
+ my_presentation.md
+.exe
+
+ 'C:\Program Files\\.exe'
+
+chkdsk
+ipconfig /flusshdns
+ipconfig /flushdns
+ipconfig /release
+ipconfig /renew
+netsh winsock reset
+netsh int ipreset
+netsh int ip reset
+netsh int tcp reset
+shutdown /r /t 0
+
+ipconfig
+Get-PhysicalDisk | Foat-Table FriendlyName, MediaType, HealthStatus, Operationatatus
+echo "Set-Alias -name healthcheckup -value 'Get-PhysicalDisk | Foat-Table FriendlyName, MediaType, HealthStatus, Operationatatus'" >> 
+  | Select-String 'healthcheckup'
+. 
+
+healthcheckup
+ 
+ 
+. 
+
+healthcheckup
+Get-PhysicalDisk
+
+wmic
+
+shutdown /r /t 0
+
+ my_presentation.md
+
+explore
+start
+
+
+
+ .\Downloads\
+get-childItemColor .\Downloads\ | Select-String *.jpg
+get-childItemColor .\Downloads\ | Select-String '*.jpg'
+get-childItemColor .\Downloads\ | Select-String jpg
+get-childItemColor .\Downloads\ | Select-Object "*.jpg"
+
+
+ .\Downloads\
+Start microsoft-edge:http://google.com
+Get-ChildItem .\Downloads -Filter "*.jpg"
+\
+
+ C:\Users\dawal\AppData\
+ C:\Users\dawal\AppData\Local\\
+ 'C:\Users\dawal\AppData\Local\Package Cache\'
+ 'C:\Users\dawal\AppData\Local\Package Cache\{1da2e09b-199c-4def-9a99-93a8c1b8ddf2}\'
+ 'C:\Users\dawal\AppData\Local\Package Cache\'
+ 'C:\Users\dawal\AppData\Local\Packages'
+ 'C:\Users\dawal\AppData\Local\Packages\1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy\'
+ 'C:\Users\dawal\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\'
+ 'C:\Users\dawal\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalCache\'
+ 'C:\Users\dawal\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\Loate\'
+ 'C:\Users\dawal\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\Loate\tmp\'
+st
+start microsoft-edge:http://google.com
+winget upgrade --all --force
+winget
+
+
+ my_presentation.md
+ .rc
+which 
+ 
+where /r C:\ .exe
+Where-Object .exe
+Get-Command  | Select-Object -ExpandPropertySource
+Get-Command .exe | Select-Object -ExpandPropertySource
+Get-Command .exe | Select-Object -ExpandProperty Source
+Get-Command  | Select-Object -ExpandProperty Source
+ 'C:\Program Files\'
+ 'C:\Program Files\\'
+ 'C:\Program Files\\.exe'
+ .rc
+
+start .rc
+explorer.exe .rc
+ .rc
+shutdown /r /t 0
+ .rc
+winget list | select-String 
+winget search 
+winget uninstall ..nightly
+winget install .
+ .rc
+shutdown /r /t 0\
+shutdown /r /t 0
+
+ my_presentation.md
+
+ my_presentation.md
+shutdown /r /t 0
+ C:\Program Files\
+ C:\Program Files\\
+
+ 'C:\Program Files\\'
+ 'C:\Program Files\'
+ 'C:\Program Files\'
+ 'C:\Program Files\\'
+ 'C:\Program Files\\_rc'
+ 'C:\Program Files\'
+winget list | select-String 
+
+
+g .rc
+winget search g
+
+winget uninstall .
+
+winget uninstall .
+
+winget install .
+ 'C:\Program Files\\'
+
+ my_presentation.md
+start microsoft-edge:http://google.com
+winget uninstall .
+
+winget install --id . -e
+ 'C:\Program Files\\'
+
+ my_presentation.md
+
+winget upgrade --all --force
+winget --info .
+winget show --info .
+winget show  .
+g .rc
+.exe .rc
+"C:\Program Files\\.exe" .rc
+"C:\Program Files\\.exe" 
+start "C:\Program Files\\.exe" 
+
+
+winget search pdftoimage
+winget install PDFtoImage
+PDFtoImage
+pdftoImage
+start mi
+start microsoft-edge:http://google.com
+
+ ..
+
+ ..
+
+ .\Users\
+
+ .\dawal\
+
+ .\CrossDevice\
+
+ '.\Dawa Lhasa\'
+
+ .torage\
+
+ ..
+C:\Users\dawal\OneDrive\Apps\Desktop
+ "C:\Users\dawal\OneDrive\Apps\Desktop"
+
+PDFtoImageConverter.exe "C:\Users\dawal\OneDrive\Apps\Desktop\last.pdf" "C:\Users\dawal\OneDrive\Apps\Desktop\last.jpg" `
+
+
+
+pdftoImageConverter.exe "C:\Users\dawal\OneDrive\Apps\Desktop\last.pdf" "C:\Users\dawal\OneDrive\Apps\Desktop\last.jpg"
+PDFtoImageConverter.exe "C:\Users\dawal\OneDrive\Apps\Desktop\last.pdf" "C:\Users\dawal\OneDrive\Apps\Desktop\last.jpg"
+PDFtoIMageConverter.exe
+ "C:\Program Files\"
+ "C:\Program Files (x86)\"
+winget search winfr
+winget info winfrGUI
+winget --info winfrGUI
+winget show winfrGUI
+winget search winfr
+winget show winfrGUI-APP
+winget install winfrGUI-APP
+winfr
+start microsoft-edge:http://google.com
+winget uninstall winfrGUI-APP
+
+winget --list
+winget list
+winget list | select-String oh
+winget uninstall "oh My Posh"
+winget
+
+
+
+shutdown /r /t 0
+winget search "oh My Posh"
+winget install JanDeDobbeleer.OhMyPosh
+
+
+
+
+start microsoft-edge:http://google.com
+ "C:\Program Files\Oracle\VirtualBox\"
+
+VBoxManager list vms
+VBoxManage list vms
+.\VBoxManage list vms
+
+ 
+ 
+
+lf
+
+ .\_info
+
+ .rc
+
+
+cargo install 
+cargo list
+cargo
+cargo --list
+cargo --list install
+cargo check 
+cargo.exe check 
+cargo.exe check 
+cargo clean
+cargo clean --all
+cargo.exe clean
+cargo.exe clean all
+cargo.exe clean --all
+
+
+winget upgrade --all --force
+winget upgrade .
+winget list | select-String 
+winget upgrade 
+start microsoft-edge:http://google.com
+ .rc
+
+shutdown
+
+shutdown /d
+
+
+
+dISM /Online /Cleanup-Image /RestoreHealth
+diskpart
+
+
+start microsoft-edge:http://google.com
+
+
+dISM /Online /Cleanup-Image /checkHealth
+dISM /Online /Cleanup-Image /CheckHealth
+DISM /Online /Cleanup-Image /ScanHealth
+winget upgrade --all --force
+ --force
+
+diskpart
+
+dism
+dism /list-image
+start microsoft-edge:http://google.com
+winget search "google chrome"
+winget install "Google Chrome"
+winget install "Google.Chrome"
+winget search openssh
+winget list | select-String openssh
+
+
+wsl --shutdown
+Stop-Service -Name "LxssManager" -Force
+Start-Service -Name "LxssManager"
+wsl --update --web-download
+kex --win
+
+
+winget list | select-String openssh
+get-service sshd
+ipconfig
+Start-Service sshd
+New-NetFirewallRule -Name 'OpenSSHServer' -DisplayName 'OpenSSH Server' -Enabled True -Direction Inbound -Protocol TCP -Action Allow -LocalPort 22 
+Get-NetConnectionProfile | Set-NetConnectionProfile -Networkegory Private
+whoami
+ipconfig
+ssh 10.106.156.39
+
+ssh dawalhasa@10.106.156.39
+
+ssh FreeBSD@192.168.64.7
+ssh root@192.168.64.7
+ssh FreeBSD@192.168.64.7
+ssh 192.168.64.7
+ssh dawalhasa@192.168.64.7
+
+ssh dawalhasa@192.168.64.7
+ping 192.168.64.7
+ping 10.106.156.40
+ssh 10.106.156.40
+
+ssh dawalhasa@10.106.156.40
+ssh root@10.106.156.40
+ssh dawalhasa@10.106.156.40
+ .\.config\
+
+ 
+New-Item -ItemType Directory -Path "C:\Users\UserName\.ssh" -Force`
+
+New-Item -ItemType File -Path "C:\Users\UserName\.ssh\authorized_keys" -Force
+ 'C:\ProgramDatash\'
+ 'C:\ProgramDatashsh_host_esa_key.pub'
+ .ssh
+ .\.ssh\agent\
+
+icac.exe "C:\ProgramDatash\administrators_authorized_keys" /inheritance:r /grant "Administrators:F" /grant "SYSTEM:F"`
+
+ .ssh
+ "C:\Users\UserName\.ssh\authorized_keys"
+ 'C:\ProgramDatashsh_host_esa_key.pub'
+ .ssh
+ "C:\Users\dawalhasa\.ssh\authorized_keys"
+text "esa-sha2-nistp384 AAAAE2VjZHNhLXNoYTItbmlzdHAzODQAAAAIbmlzdHAzODQAAABhBFIK88dPtl+C6IzxfyRJOY6WqPh9D4eSlFUL66Pb0yH1BCaWKExVtWfcNe8VBsGHltjqYcYhDCcuySrDW/Tfa1saeN57eInxe7uMFzYJ3onBWyy0W2JzQWn43nkMb3nA== system@Dawa" > C:\Users\dawal\.ssh\authorized_keys`
+
+type  "esa-sha2-nistp384 AAAAE2VjZHNhLXNoYTItbmlzdHAzODQAAAAIbmlzdHAzODQAAABhBFIK88dPtl+C6IzxfyRJOY6WqPh9D4eSlFUL66Pb0yH1BCaWKExVtWfcNe8VBsGHltjqYcYhDCcuySrDW/Tfa1saeN57eInxe7uMFzYJ3onBWyy0W2JzQWn43nkMb3nA== system@Dawa" > C:\Users\dawal\.ssh\authorized_keys`
+
+type  "esa-sha2-nistp384 AAAAE2VjZHNhLXNoYTItbmlzdHAzODQAAAAIbmlzdHAzODQAAABhBFIK88dPtl+C6IzxfyRJOY6WqPh9D4eSlFUL66Pb0yH1BCaWKExVtWfcNe8VBsGHltjqYcYhDCcuySrDW/Tfa1saeN57eInxe7uMFzYJ3onBWyy0W2JzQWn43nkMb3nA== system@Dawa" > "C:\Users\dawal\.ssh\authorized_keys"
+
+
+ .\.ssh\
+
+ .\authorized_keys
+ .\authorized_keys
+ .\authorized_keys
+
+icac.exe "C:\ProgramDatash\administrators_authorized_keys" /inheritance:r /grant "Administrators:F" /grant "SYSTEM:F"`
+
+ifconfig
+ipconfig
+echo "ssh dawalhasa@10.106.156.40" >> 
+ 
+& 
+
+crs
+ 
+crs
+crs -HostName 10.106.156.40 -UserName dawalhasa
+& 
+
+crs
+ 
+
+crs
+
+ipconfig
+ --force
+start microsoft-edge:http://google.com
+
+ifconfig
+ipconfig
+ 
+ C:\PRogramDatash\
+
+ .shd_config
+Copy-Item -Path .shd_config .shd_config.bak
+
+ .shd_config
+restart-Service OpenSSH
+restart-Service
+restart-Service SShd
+ .shd_config
+restart-Service SShd
+ .shd_config
+
+ .\logs\
+
+
+
+ ..
+
+ ..
+
+ .sh\
+
+hostname
+$env:COMPUTERNAME
+ipconfig
+Enable-PSRemoting -Force
+Set-NetConnectionProfile -Networkegory Private`
+
+Set-Item WSMan:\localhost\Client\TrustedHosts -Value "*" -Force
+Restart-Service Win
+Enable-PSRemoting -Force
+ C:\ProgramDatash\
+Set-Item WSMan:\localhost\Client\TrustedHosts -Value "10.252.102.39" -Force
+Restart-Service Win
+Enter-PSSession -ComputerName "10.252.102.39" -Credential "Administrator"`
+
+ --force
+netsh interface portproxy add v4tov4 listenport=22 listenaddress=0.0.0.0 connectport=22 connectaddress=172.24.28.58
+New-NetFirewallRule -DisplayName "WSL External Access" -Direction Inbound -LocalPort <Port> -Action Allow -Protocol TCP
+New-NetFirewallRule -DisplayName "WSL External Access" -Direction Inbound -LocalPort 22 -Action Allow -Protocol TCP
+hostname -I
+hostname -s
+
+
+ .\Project\
+
+ .\github_sshkey_config\
+
+presentation .\mdp.md
+presentation .lide.md
+snap search presentation
+winget search snapd
+cargo.exe clean --all
+cargo.exe clean 
+
+
+cargo.exe clean
+cargo clean
+
+winget list | select-String cargo
+winget search cargo
+
+ .\Project\
+
+ .\github_sshkey_config\
+
+glow mdp.md
+
+
+glow .lide.md
+
+
+ ..
+
+ .\Practice\
+
+glow dawa.md
+glow .\dawalhasa.md
+
+
+ ..
+
+ .\Web_Development_Project\
+
+ .\NodeJs\
+
+
+
+
+
+
+ .cript\
+
+glow .sh_status.ps1
+ssh_status
+.sh_status
+
+
+glow .\test.ps1
+
+
+ ..
+
+ '.\VirtualBox VMs\'
+
+ -rf .\Arch_default_1749372447359_38517\
+Remove-Item .\Arch_default_1749372447359_38517\
+Remove-Item .\Archi_default_1749098353167_8044\
+
+Remove-Item .\CentOS_default_1749103008773_48337\
+
+Remove-Item .\Fedora_default_1749144523958_63267\
+Remove-Item .\Fedora_default_1750236973894_11565\
+
+Remove-Item .\Debian_default_1749179507677_62773\
+Remove-Item .\Debian_default_1749294371270_56455\
+
+Remove-Item .\Vagrant-Project_default_1749093955810_77071\
+
+
+ .\Ubuntu\
+
+
+
+ .lesshst
+ .rc
+
+ .rc
+ 
+ .\db.rsp
+
+
+
+install-module -name sshd
+install-module -name openssh
+winget list | select-String ssh
+start-service sshd
+start-service openssh
+start-service ssh
+get-service sshd
+winget upgrade --all --force
+start '.\VirtualBox VMs\'
+start '.\VirtualBox VMs\RHEL\'
+VBoxManage list vms
+VBoxManage list
+ "C:\Program Files\Oracle\VirtualBox\"
+VBoxManage list
+.\VBoxManage list
+.\VBoxManage list vms
+.\VBoxManage startvm "RHEL"
+get-history | tail
+get-history 
+get-history  -Count 20
+get-history  -Count 25
+get-history  -Count 25 >> command.txt\
+get-history  -Count 25 >> command.txt
+
+ "C:\"
+ "C:\Users\"
+ "C:\Users\dawal\"
+mv .\command.txt "C:\Users\dawal\"
+
+
+
+ .\command.txt
+open .\command.txt
+ .\command.txt
+.exe .\command.txt
+ "C:\Program Files\Oracle\VirtualBox\"
+VBoxManage list vms
+.\VBoxManage list vms
+.\VBoxManage startvm "Ubuntu"
+
+\
+
+start microsoft-edge:http://google.com
+net user
+Get-LocalUser
+Remove-LocalUser -Name Guest
+get-LocalUser
+Add-LocalGroupMember -Group "Administrators" -Member "Server_Admin"
+whoami
+whoami Server_Admin
+net user Server_Admin
+
+ "C:\Users\"
+ "C:\Users\UserName\"
+ "C:\Users\UserName\.ssh\"
+ "C:\Users\UserName\.ssh\authorized_keys"
+ifconfig
+ipconfig
+get-service sshd
+hostname -s
+hostname
+uname -U
+uname -u
+get-host
+Get-HotFix
+ "C:\Users\UserName\.ssh\"
+ "C:\Users\UserName\.ssh\authorized_keys"
+ "C:\Users"
+ "C:\Users\UserName\"
+ "C:\Users\dawal\"
+ "C:\Users\"
+get-localUser
+Set-LocalUser -Name \"Server_Admin"
+get-localUser
+get-localUser | select-string -Context 2,3
+ "C:\Users\UserName\.ssh\"
+ "C:\Users\UserName\.ssh\authorized_keys"
+Get-LocalUser list
+net user "Server_Admin" /active:yes
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
+winget list | select-String terrafo
+winget install "HashiCorp Terrafo"
+terrafo init
+mkdir terrfo-virtualbox
+ .\terrfo-virtualbox\
+vboxmanage list
+vboxmanage list vms
+Enable-WindowsOptionalFeature -Online -FeatureName ssh-server -All
+Enable-WindowsOptionalFeature -Online -FeatureName sshd
+get-help Enable-WindowsOptionalFeature
+Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH.Server*'
+Add-WindowsCapability -Online -Name "OpenSSH.Server~~~~0.0.1.0"
+Start-Service sshd
+Set-Service -Name sshd -StartupType 'Automatic'
+Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH.Server*'
+Start-Service sshd
+Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH.Server*'
+Enable-WindowsOptionalFeature -Online -FeatureName ssh-server -All
+Enable-WindowsOptionalFeature -Online -FeatureName sshd -All
+Set-Service -Name sshd -StartupType 'Automatic'
+Add-WindowsCapability -Online -Name "OpenSSH.Server~~~~0.0.1.0"
+Start-Service sshd
+Remove-WindowsCapability -Online -Name "OpenSSH.Server~~~~0.0.1.0"
+Add-WindowsCapability -Online -Name "OpenSSH.Server~~~~0.0.1.0"
+Start-Service sshd
+Set-Service -Name sshd -StartupType 'Automatic'
+Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH.Server*'
+Enable-WindowsOptionalFeature -Online -FeatureName ssh-server -All
+Enable-WindowsOptionalFeature -Online -FeatureName openssh-server -All
+Enable-WindowsOptionalFeature -Online -FeatureName "OpenSSH.Servers" -All
+Get-NetFirewallRule -Name *ssh*
+net user "Dawa Lhasa" "Server1!"
+net user "dawal" "Server1!"
+remove-localUser -Name Server_Admin
+get-localUser
+Get-Content (Get-PSReadLineOption).HistorySavePath -Tail 1000  > lastfifty.txt
