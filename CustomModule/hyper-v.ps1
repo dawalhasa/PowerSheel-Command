@@ -1,12 +1,12 @@
 function win_server{
  param(
-        [string]$VMName,
-        [int]$MemoryGB,
-        [string]$VHDPath
-        [string]$VHDSize
-        [int]$VMProcessor_Count
-        [string]$SwitchName
-        [string]$ISO_Path
+        [string]$VMName = $(Read-Host -Prompt "Insert the server name"),
+        [int]$MemoryGB = $(Read-Host -Prompt "Insert how much memory you want"),
+        [string]$VHDPath = $(Read-Host -Prompt "Where you wnat your vm to save"),
+        [string]$VHDSize = $(Read-Host -Prompt "Insert how much disk size you want set"),
+        [int]$VMProcessor_Count = $(Read-Host -Prompt "Insert the number of VM whether you want core and deskt by Number -Example 1 core, 2 Desktop"),
+        [string]$SwitchName = $(Read-Host -Prompt "Insert VMSwitch -Example 'Default switch', 'Extranal Switch', 'Internal Switch' "),
+        [string]$ISO_Path = $(Read-Host -Prompt "Insert the ISO path")
     )
 
 New-VM -Name "WinServer_Core" -MemoryStartupBytes 2GB -Generation 2 -NewVHDPath "C:\Users\dawal\Hyper-V\WinServerCore.vhdx" -NewVHDSizeBytes 60GB
